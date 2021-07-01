@@ -27,6 +27,12 @@ Den Punkt Providers um folgenden Eintrag ergänzen:
 \ITHilbert\Site\SiteServiceProvider::class,
 ```
 
+### Git löschen
+```
+cd packages/site
+rm -Rf .git
+```
+
 ### ToDo
 
 
