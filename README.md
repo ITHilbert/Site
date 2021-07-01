@@ -38,4 +38,5 @@ rm -Rf .git
 
 ### Author
 IT-Hilbert GmbH
-Homepage: [IT-Hilbert.com](IT-Hilbert.com) 
+
+Homepage: [IT-Hilbert.com](https://www.IT-Hilbert.com) 
